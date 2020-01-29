@@ -14,4 +14,4 @@ The purpose of this poject is an introduction to React.js. It is a simple memory
 
 ## Screenshot
 
-![hompage](publc/12-clicky-game.png)
+![homepage](public/12-clicky-game.png)
